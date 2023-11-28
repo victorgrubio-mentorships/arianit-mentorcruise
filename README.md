@@ -1,4 +1,4 @@
-# Arianit Mentorship Project
+# Spring Boot project with Devops
 
 Spring Microservice Deployment using Docker, docker-compose, Spring Cloud Gateway, GitHub Actions, and Pub/Sub Notifications
 
